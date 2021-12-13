@@ -1,2 +1,2 @@
 # book
-reding push
+reading push
